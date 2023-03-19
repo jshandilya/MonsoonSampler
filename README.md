@@ -4,7 +4,7 @@
 
 ![](Images/IMG_2092.png)
 
-Monsoon is a Max for Live granular sampler combined with MIDI control through a touch screen and knobs. The controller is connected through a Teensy 4.0 and uses the adafruit TouchScreen library. 
+Monsoon is a Max for Live granular sampler combined with MIDI control through a touch screen and knobs. The controller is connected through a Teensy 4.0 and uses the adafruit TouchScreen library. Final project for New Electronic Instrument Design (EP-390) at Berklee College of Music.
 
 ## Parameters and Controls
 
@@ -14,3 +14,6 @@ The knobs control the grain position range, the grain duration range, and the lo
 
 ## Demos
 
+## Parts Used
+
+## Dependencies
