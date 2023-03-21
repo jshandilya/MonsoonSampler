@@ -1,8 +1,8 @@
 # MonsoonSampler
 
-## Project Description 
-
 ![](Images/IMG_2092.png)
+
+## Project Description 
 
 Monsoon is a Max for Live granular sampler combined with MIDI control through a touch screen and knobs. The controller is connected through a Teensy 4.0 and uses the adafruit TouchScreen library and the teensyduino IDE. 
 
