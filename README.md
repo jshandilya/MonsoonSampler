@@ -20,6 +20,12 @@ The knobs control the grain position range, the grain duration range, and the lo
 
 The demo linked above samples "Miranda" by Bob James.
 
+## Parts Used
 
-
-
+* [Teensy 4.0](https://www.sparkfun.com/products/15583)
+* [Breadboard - Full-Size](https://www.sparkfun.com/products/12615)
+* [Jumper Wires - Connected 6" (M/M, 20 pack)](https://www.sparkfun.com/products/12795)
+* [Adafruit Touch Screen Breakout Board for 4 pin 1.0mm FPC](https://www.adafruit.com/product/3575)
+* [Resistive Touchscreen Overlay - 7" diag. 165mm x 105mm - 4 Wire](https://www.adafruit.com/product/1676)
+* [Panel Mount 1K potentiometer](https://www.adafruit.com/product/1789)
+* [USB micro-B Cable - 6 Foot](https://www.sparkfun.com/products/10215) 
